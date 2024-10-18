@@ -1,0 +1,91 @@
+body{
+    background-color:cornsilk;
+}
+
+.heading{
+    text-decoration: underline;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: white;
+    text-align: center;
+
+}
+body{
+    background-image: url(https://img.freepik.com/premium-photo/bodybuilding-fitness-background_941097-151565.jpg)  ;
+background-repeat:repeat-x;
+
+}
+
+.r{
+   text-align: right; 
+   font-size: 25px;
+   color: white;
+   font-weight: bolder;
+}
+.c{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight:bolder;
+}
+.l{
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    font-weight: bolder;
+}
+.plans{
+    background: linear-gradient(to right,rgb(63, 7, 194),green,blue);
+    color: white;
+    text-align: center;
+}
+.box{
+    background: linear-gradient(white) ;
+    width: 500px;
+    height: 500px;
+    box-shadow: 2px 2px 2px black,-2px -2px 2px black;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 50px; 
+    background-color:darkslategray;   
+}
+.b1p1{
+    font-size:50px;
+}
+.b1p2{
+    font-size: 20px;
+    text-align:center;
+}
+.box2{
+    background: linear-gradient(white) ;
+    width: 500px;
+    height: 500px;
+    box-shadow: 2px 2px 2px black,-2px -2px 2px black;
+    margin-top: 50px;
+    color: white;
+    background-color:darkslategray;
+}
+.b2p1{
+    font-size:50px;
+}
+.b2p2{
+    font-size: 20px;
+    text-align:center;
+}    
+.box3{
+    background: linear-gradient(white) ;
+    width: 500px;
+    height: 500px;
+    box-shadow: 2px 2px 2px black,-2px -2px 2px black;
+    margin-top: 50px;
+    color: white;
+    background-color:darkslategray;
+    
+}
+.b3p1{
+    font-size:50px;
+}
+.b3p2{
+    font-size: 20px;
+    text-align:center;
+}
